@@ -1,0 +1,6 @@
+var chicken = 
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"Name":"Indi's Fast Food Restaraunt","Type":"Local", "Address": "670 North Broadway", "Phone": 8592337985, "Website": "https://www.facebook.com/Indis.Lexington/"},"geometry":{"type":"Point","coordinates":[-84.487038,38.057799]}},
+    {"type":"Feature","properties":{"Name":"Grimes's Fast Food North","Type":"Local", "Address": "325 Roosevelt Boulevard", "Phone": 8592550445, "Website": "no website"},"geometry":{"type":"Point","coordinates":[-84.503872,38.068055]}},
+    {"type":"Feature","properties":{"Name":"Grimes's Fast Food South","Type":"Local", "Address": "4248 Saron Drive", "Phone": 8595238222, "Website": "no website"},"geometry":{"type":"Point","coordinates":[-84.501614,37.966166]}},
+    ]}
